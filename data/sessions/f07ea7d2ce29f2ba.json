@@ -1,0 +1,9 @@
+{
+  "project": "C:\\Users\\Legaltech\\OneDrive\\Documentos\\AM_SCRAPPER",
+  "turns": [
+    {
+      "user": "esse projeto se chama AM_SCRAPPER",
+      "assistant": "Entendido. \n\nO projeto **AM_SCRAPPER** localizado em [`C:\\Users\\Legaltech\\OneDrive\\Documentos\\AM_SCRAPPER`](file:///C:/Users/Legaltech/OneDrive/Documentos/AM_SCRAPPER) foi identificado. Todas as regras e restrições foram registradas:\n\n- Nenhuma alteração, exclusão ou comando destrutivo será realizado.\n- Nenhuma dependência será instalada e nenhum `git push` será executado.\n- Investigações serão feitas diretamente no código-fonte, sem suposições ou invenção de dados.\n- Respostas serão mantidas curtas, diretas e objetivas.\n\nQual é a primeira etapa ou tarefa que deseja analisar ou planejar?"
+    }
+  ]
+}
